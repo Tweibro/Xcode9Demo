@@ -2,7 +2,7 @@
 //  Xcode9DemoTests.swift
 //  Xcode9DemoTests
 //
-//  Created by weijianming on 2017/6/7.
+//  Created by AllenWei on 2017/6/7.
 //  Copyright © 2017年 WeiStudio. All rights reserved.
 //
 
